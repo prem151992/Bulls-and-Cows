@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Multiple constructors/Phone/out/
+/Topics/Multiple constructors/Phone/out/production/classes/
